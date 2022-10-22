@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-456
-=======
 789
->>>>>>> Stashed changes
-=======
-789
->>>>>>> Stashed changes
